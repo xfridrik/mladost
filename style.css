@@ -1,0 +1,59 @@
+body{
+    padding: 0;
+    text-align: center;
+}
+
+form:not(#inside){
+    width: 450px;
+    max-width: 90%;
+    margin: 10px auto;
+}
+
+select{
+    margin-bottom: 7px;
+}
+
+section{
+    width: 550px;
+    max-width: 90%;
+    border-radius: .6rem;
+    padding: 15px;
+    margin: 1px auto;
+}
+
+
+.add{
+    background-color: #0082ff;
+    color: white;
+    padding: 8px;
+    border-radius: .5rem;
+    border: solid 2px #006fda;
+}
+
+.badge-secondary{
+    background-color: #fbfdff;
+    color: darkblue;!important;
+}
+
+#help.dark{
+    color: #e0e6ec;
+}
+
+h4{
+    color: red;
+}
+
+.del{
+    padding: 0 10px!important;
+}
+
+#space{
+    width: 75px;
+}
+
+.inf{
+    width: 75%;
+    min-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
